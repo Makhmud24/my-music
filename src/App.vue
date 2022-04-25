@@ -50,7 +50,12 @@ export default {
             title : 'Holimga qara',
             artist: 'Jambul Muhammedov',
             src : require( './assets/holimgaqara.mp3')
-          }
+          },
+                        {
+            title : 'гулай душа сердита',
+            artist: 'criminal_SQUAD',
+            src : require( './assets/gulaydusha.mp3')
+          },
 
         ],
       player: new Audio()
